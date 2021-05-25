@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,QACE,qBAAwB,CACzB,OAWC,cAAe","file":"main.f2cf0597.chunk.css","sourcesContent":[".active {\n  background-color: yellow;\n}\n\n// .app {\n//   width: 400px;\n//   display: flex;\n//   flex-direction: column;\n//   align-items: center;\n//   padding: 20px;\n// }\n\nbutton {\n  cursor: pointer;\n}\n"]}
